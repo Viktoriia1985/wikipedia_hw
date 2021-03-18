@@ -1,0 +1,46 @@
+
+.body_container {
+    width: 1200px;
+    margin: 0px;
+}
+
+.father_father {
+    margin: 10px 30px;
+}
+
+.father {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-left: 10px solid #fc3;
+    margin: 0px auto;
+}
+
+.main_container {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin: 10px auto;
+}
+
+.main_info {
+    padding: 0px 20px;
+    text-align: justify;
+}
+
+.main_part2 {
+    margin: 5px;
+    padding: 10px;
+}
+
+.main_info1 {
+    border: 1px solid black;
+    height: 520px;
+    border-spacing: 3px;
+    padding: 15px;
+}
+
+
